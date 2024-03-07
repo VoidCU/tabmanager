@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "My Tab List",
+  "version": "0.0.1",
+  "description": "Shows a list of open tabs",
+  "permissions": ["tabs","storage"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
